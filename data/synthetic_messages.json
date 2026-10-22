@@ -1,0 +1,6 @@
+[
+  {"group": "synthetic-group-001@g.us", "sender": "Andi", "text": "X, ringkas tugas pagi ya?", "time": "07:30", "mentions_x": true},
+  {"group": "synthetic-group-002@g.us", "sender": "Budi", "text": "Meeting jam 9. Reminder 5 menit sebelumnya dong.", "time": "08:15", "mentions_x": true},
+  {"group": "synthetic-group-001@g.us", "sender": "Citra", "text": "Deadline revisi besok siang.", "time": "09:00", "mentions_x": false},
+  {"group": "synthetic-group-002@g.us", "sender": "Dedi", "text": "X, bisa bantu buat reminder rapat mingguan?", "time": "10:00", "mentions_x": true}
+]

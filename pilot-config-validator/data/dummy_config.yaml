@@ -1,0 +1,19 @@
+# Skema audit dummy milik proyek, BUKAN setting yang diakui Hermes.
+x_wa_pilot_audit:
+  enabled: true
+  bot_number: "+620000000000"
+  send_enabled: false
+  group_policy: disabled
+  allowlisted_groups: []
+  owner_id: synthetic-owner-001@s.whatsapp.net
+  sender_policy: owner_only
+  unauthorized_sender_behavior: reject
+  media_enabled: false
+  attachments_enabled: false
+  url_preview_enabled: false
+  kill_switch_configured: true
+  kill_switch_active: true
+  ttl_seconds: 60
+  group_tool_execution_enabled: false
+  raw_message_logging_enabled: false
+  default_deny: true

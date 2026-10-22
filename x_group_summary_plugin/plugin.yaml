@@ -1,0 +1,5 @@
+name: x-group-summary
+version: "0.1.0"
+description: "Silent one-group WhatsApp observer that provides owner-DM metadata summaries."
+provides_hooks:
+  - pre_gateway_dispatch

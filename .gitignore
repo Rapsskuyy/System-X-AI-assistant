@@ -1,0 +1,18 @@
+# Python build and runtime artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+**/.venv/
+
+# Local runtime configuration and credentials
+*.local.yaml
+.env
+.env.*
+*.log
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

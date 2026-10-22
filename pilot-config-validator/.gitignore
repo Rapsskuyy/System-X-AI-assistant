@@ -1,0 +1,3 @@
+# Local manifests contain WhatsApp identifiers; never commit them.
+*.local.yaml
+pilot.multigroup.v3.local.yaml
